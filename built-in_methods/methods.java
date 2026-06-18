@@ -23,7 +23,7 @@ public class methods {
 
         // remove method
         colors.remove(3);
-        System.err.println(colors + "Yellow removed");
+        System.err.println(colors + " Yellow removed");
 
         colors.add("Sky Blue");
         colors.add("White");
