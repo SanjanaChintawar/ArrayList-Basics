@@ -8,6 +8,7 @@ public class methods {
         colors.add("Green");
         colors.add("Blue");
         colors.add("Yellow");
+        colors.add("pink");
 
         System.err.println(colors);
 
@@ -28,7 +29,7 @@ public class methods {
         colors.add("Sky Blue");
         colors.add("White");
 
-        // Traversing 
+        // Traversing the arrayList
         System.err.println("Traverse the ArrayList: ");
         for(int i = 0; i < colors.size(); i++){
             System.err.println(colors.get(i));
