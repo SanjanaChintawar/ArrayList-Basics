@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
@@ -21,6 +22,7 @@ public class minMax {
 
         System.err.println("Maximum: "+ Collections.max(numbers));
         System.err.println("Minimum: "+ Collections.min(numbers));
+        sc.close();
 
 
     }
