@@ -20,6 +20,7 @@ public class even{
                 count++;
             }
         }
-        System.out.println("Total even numbers: "+count);
+
+        System.out.println("Total even numbers: " + count);
     }
 }
